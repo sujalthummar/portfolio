@@ -8,7 +8,8 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people",
+    // "Software Engineer turned Entrepreneur. I love building things and helping people",
+    "Software Engineer. I love building things and helping people",
   summary:
     "Mastering React, Next.js, and Node.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
   avatarUrl: "/me1.jpeg",
@@ -21,6 +22,9 @@ export const DATA = {
     "Typescript",
     "Next.js",
     "Node.js",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
