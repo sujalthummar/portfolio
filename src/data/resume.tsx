@@ -10,8 +10,10 @@ export const DATA = {
   description:
     // "Software Engineer turned Entrepreneur. I love building things and helping people",
     "Software Engineer. I love building things and helping people",
+  // summary:
+  //   "Mastering React, Next.js, and Node.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
   summary:
-    "Mastering React, Next.js, and Node.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
+    "Mastering React and Next.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
   avatarUrl: "/me1.jpeg",
   skills: [
     "HTML5",
@@ -21,10 +23,10 @@ export const DATA = {
     "Redux",
     "Typescript",
     "Next.js",
-    "Node.js",
-    "MongoDB",
-    "PostgreSQL",
-    "MySQL",
+    // "Node.js",
+    // "MongoDB",
+    // "PostgreSQL",
+    // "MySQL",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -71,12 +73,12 @@ export const DATA = {
     //   href: "https://www.metamorix.com/",
     //   badges: [],
     //   location: "Surat",
-    //   title: "Co-Founder & CTO",
+    //   title: "Co-Founder & CEO",
     //   logoUrl: "/Metamorix.jpeg",
     //   start: "Jun 2024",
     //   end: "Present",
     //   description:
-    //     "Metamorix Consultancy is a dynamic software development firm dedicated to delivering innovative, scalable technology solutions worldwide. As Co-founder and CTO, I lead the strategic planning and execution of cutting-edge applications, ensuring seamless integration of emerging technologies to drive business success. I oversee the design, development, and deployment of robust systems while guiding a skilled team of developers. At Metamorix, we craft tailored web, mobile, and enterprise solutions to empower businesses with digital transformation and a competitive edge.",
+    //     "Metamorix Consultancy is a dynamic software development firm dedicated to delivering innovative, scalable technology solutions worldwide. As Co-founder and CEO, I lead the strategic planning and execution of cutting-edge applications, ensuring seamless integration of emerging technologies to drive business success. I oversee the design, development, and deployment of robust systems while guiding a skilled team of developers. At Metamorix, we craft tailored web, mobile, and enterprise solutions to empower businesses with digital transformation and a competitive edge.",
     // },
     {
       company: "Softices Consultancy",
