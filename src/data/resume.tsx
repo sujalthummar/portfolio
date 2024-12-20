@@ -4,16 +4,16 @@ import { HomeIcon, Code } from "lucide-react";
 export const DATA = {
   name: "Sujal Thummar",
   initials: "ST",
-  url: "https://dillion.io",
+  url: "https://sujal-coral.vercel.app/",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     // "Software Engineer turned Entrepreneur. I love building things and helping people",
     "Software Engineer. I love building things and helping people",
-  // summary:
-  //   "Mastering React, Next.js, and Node.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
   summary:
-    "Mastering React and Next.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
+    "Mastering React, Next.js, and Node.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
+  // summary:
+  //   "Mastering React and Next.js empowers you as a web developer to build dynamic and scalable solutions. By integrating TypeScript and advanced architectural patterns, you can create efficient, maintainable code that stands up to the demands of modern development. This expertise allows you to tackle complex challenges, optimize performance, and stay ahead of industry trends, making you a valuable contributor to any development team in the ever-evolving web development landscape.",
   avatarUrl: "/me1.jpeg",
   skills: [
     "HTML5",
@@ -23,10 +23,10 @@ export const DATA = {
     "Redux",
     "Typescript",
     "Next.js",
-    // "Node.js",
-    // "MongoDB",
-    // "PostgreSQL",
-    // "MySQL",
+    "Node.js",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -88,7 +88,7 @@ export const DATA = {
       title: "Web Developer",
       logoUrl: "/Softices logo.png",
       start: "Feb 2023",
-      end: "Present",
+      end: "Dec 2024",
       description:
         "I specialize in developing diverse web applications using React.js, Next.js, TypeScript and Node.js, including e-commerce platforms, car-selling portals, student and family management systems, and more. With expertise in building dynamic admin panels, managing large datasets, and optimizing for speed and responsiveness, I deliver seamless user experiences, scalable architectures, and high-performance solutions tailored to diverse business needs.",
     },
