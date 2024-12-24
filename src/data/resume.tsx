@@ -1,4 +1,5 @@
 import { Icons } from "@/components/icons";
+import { m } from "framer-motion";
 import { HomeIcon, Code } from "lucide-react";
 
 export const DATA = {
@@ -19,9 +20,12 @@ export const DATA = {
     "CSS",
     "JavaScript",
     "React",
-    "Redux",
     "Typescript",
     "Next.js",
+    "Redux",
+    "Material-UI",
+    "Shadcn-UI",
+    "TailwindCSS",
     // "Node.js",
     // "MongoDB",
     // "PostgreSQL",
